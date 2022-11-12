@@ -1,4 +1,4 @@
-import React from 'react';
+
 import WorkImg from '../images/workImg.jpeg';
 import realEstate from '../images/realestate.jpg';
 
