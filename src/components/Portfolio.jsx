@@ -75,7 +75,6 @@ const Portfolio = () => {
             style={{ backgroundImage: `url(${WorkImg})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
-            {/* Hover Effects */}
           
              
             {/* Hover Effects */}
