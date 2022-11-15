@@ -1,6 +1,10 @@
+
 const Footer = () => {
     return (
-        <h1>Footer </h1>
+        <div name='skills' className='  text-gray-300 gradient-bg-about'>
+    
+    
+         </div>
     );
 }
 
