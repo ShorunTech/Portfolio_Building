@@ -20,8 +20,7 @@ const Home = () => {
                         {" "}
                        <span className='highlight-text '>
                        
-                       <div className='text-2xl sm:text-2xl text-yellow-400 pl-7 pt-4 '>
-                        <span className=''>
+                    
                             {" "}
                              <h1>
                                 <Typical 
