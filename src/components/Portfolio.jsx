@@ -18,7 +18,8 @@ const Portfolio = () => {
           
         </div>
 
-
+        <div name='portfolio' className='w-full gradient-bg-welcome text-gray-300'>
+    
           
       
             {/* Grid Item */}
