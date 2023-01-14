@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import me16 from "../images/me16.png";
+
 
 const About = () => {
     return (
