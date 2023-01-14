@@ -17,7 +17,9 @@ const About = () => {
          Work with different software and have
          <br />Work with different software and have  <br />ceated some website,Apps alsoWork with different software and have <br/>Open Source Ethuasiam.
             <br/>
-          
+            Am Graduate of Physics with Electronics<br/>transition into Tech world.
+           Sterilizer Technicial at Mikano Int.Work with different software and have 
+           Work with different software and have
           
           </p>
           </div>
