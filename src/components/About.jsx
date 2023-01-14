@@ -25,7 +25,8 @@ const About = () => {
           <div className="w-full flex flex-row-reverse  items-center justify-start  md:mt-0 mt-1 pl-4 pr-9">
         <div className="justify-end items-start flex-col rounded">
         
-        
+        <img src={me16} alt="me16" className="w-80  transition ease-in-out delay-150 bg-gray-400 hover:-translate-y-1 hover:scale-110 hover:bg-red-300 duration-300 cursor-pointer rounded-full"/>
+      
          </div>
 
        </div>     
