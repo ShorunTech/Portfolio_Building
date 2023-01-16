@@ -22,6 +22,9 @@ const About = () => {
             Am Graduate of Physics with Electronics<br/>transition into Tech world.
            Sterilizer Technicial at Mikano Int.Work with different software and have 
            Work with different software and have
+           Am Graduate of Physics with Electronics<br/>transition into Tech world.
+           Sterilizer Technicial at Mikano Int.Work with different software and have 
+           Work with different software and have
           
           </p>
           </div>
