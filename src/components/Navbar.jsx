@@ -19,7 +19,9 @@ const Navbar = () => {
           <ul className="text-white md:flex hidden list-none justify-between items-center flex-initial">
           <li className=' mx-2 hover:bg-[#bd2525] py-2 px-3 rounded-full  cursor-pointer'>
                
-              
+          <Link to='home' smooth={true} duration={500} >
+                Home
+              </Link>
            </li>
            <li className=' mx-2 hover:bg-[#bd2525] py-2 px-3 rounded-full  cursor-pointer'>
               <Link to='about' smooth={true} duration={500} >
