@@ -10,9 +10,9 @@ const Discord = () => {
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
-              <p className='text-4xl pr-40 font-bold inline border-b-4 border-pink-600'>Speaker</p>
-              <p className='py-4'> Contributed In Various Social Media PlatForm</p>
-          </div>
+              
+              
+                </div>
 <br/>
 <br/>
           <div className='w-full flex justify-between grid grid-cols-1 sm:grid-cols-2 gap-4 text-center py-8'>
