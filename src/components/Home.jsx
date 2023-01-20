@@ -74,7 +74,8 @@ const Home = () => {
                     <div> 
                         <br/>
                         <p className="text-white font-semibold text-lg mt-8">
-                          
+                            ShorunTech<br/>Self-Tought Full-Stack <br/>
+                            Developer
                         </p>
                     </div>
                  </div>
