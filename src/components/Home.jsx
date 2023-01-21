@@ -8,7 +8,7 @@ import { HiArrowNarrowRight } from 'react-icons/hi';
 
 import Typical  from 'react-typical';
 
-
+import logo from "../images/logo9999.png";
 
 const Home = () => {
     return (
