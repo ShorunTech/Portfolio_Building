@@ -73,10 +73,7 @@ const Home = () => {
                     </div>
                     <div> 
                         <br/>
-                        <p className="text-white font-semibold text-lg mt-8">
-                            ShorunTech<br/>Self-Tought Full-Stack <br/>
-                            Developer
-                        </p>
+                        
                     </div>
                  </div>
             </div>          
@@ -86,7 +83,10 @@ const Home = () => {
          <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
             <ul>
                 <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 rounded-lg bg-blue-600">
-                 
+                    <a className="flex justify-between items-center w-full text-gray-300 p-1" 
+                    href="/">
+                     Linkedin <FaLinkedin size={30} />
+                    </a>
                 </li>
               
                 <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 rounded-lg bg-gray400">
