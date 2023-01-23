@@ -54,7 +54,11 @@ const Navbar = () => {
           </div>
 
       <ul
-       
+        className={
+          !nav
+            ? 'hidden'
+            : 'absolute top-0 left-0 w-full h-screen  flex flex-col justify-center items-center  bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-50 border border-gray-100'
+        }
       >
         <li className='py-6 text-4xl'>
           <Link onClick={handleClick} to='home' smooth={true} duration={500}>
