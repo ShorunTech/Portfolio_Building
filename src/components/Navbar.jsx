@@ -29,9 +29,7 @@ const Navbar = () => {
               </Link>
            </li>
            <li className=' mx-2 hover:bg-[#bd2525] py-2 px-3 rounded-full  cursor-pointer'>
-              <Link to='discord' smooth={true} duration={500} >
-                Discord
-              </Link>
+             
            </li>
            <li className=' mx-2 hover:bg-[#bd2525] py-2 px-3 rounded-full  cursor-pointer'>
               <Link to='skills' smooth={true} duration={500} >
