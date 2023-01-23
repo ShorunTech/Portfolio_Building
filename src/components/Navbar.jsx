@@ -44,7 +44,9 @@ const Navbar = () => {
               </Link>
            </li>
             
-          
+            <li className="bg-[#e32929] py-2 px-7 mx-10 rounded-full cursor-pointer hover:bg-[#2546bd]">
+                Connect Now
+            </li>
            
           </ul>
           <div onClick={handleClick} className='md:hidden z-10'>
