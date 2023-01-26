@@ -42,9 +42,7 @@ const Home = () => {
                                 />
                                 
                             </h1>
-                            <span className='text-red-400'>
-                                Console.log (Creativity)
-                            </span>
+                           
                         </span>
                         
                     </div>
