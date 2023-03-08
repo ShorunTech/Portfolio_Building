@@ -28,10 +28,7 @@ const Discord = () => {
                   <img className='py-4 pl-2 pr-2 border-2 w-60 mx-auto rounded-lg ' src={d} alt="d" />
                   <p className='my-4'>DISCORD</p>
               </div>
-              <div className='shadow-md hover:scale-[2] py-12 rounded-lg duration-500'>
-                  <img className='py-4 pl-2 pr-2 border-2 w-60 mx-auto rounded-lg ' src={t} alt="t" />
-                  <p className='my-4'>DISCORD</p>
-              </div>
+            
               
           </div>
 
